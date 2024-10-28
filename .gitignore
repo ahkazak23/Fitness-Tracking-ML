@@ -66,8 +66,7 @@ target/
 # Pycharm
 .idea
 
-# VS Code
-.vscode/
+
 *.code-workspace
 
 # Spyder
